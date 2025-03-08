@@ -12,8 +12,8 @@
 
  Dataset Description 
  
-  - **Caffeine Consumption: ** This will be calculated under 2 parts which are logs of coffee consumption pre-project and the logs of coffee/tea/energy drink consumption during the project period. To calculate the weekly intake, the average caffeine content (in milligrams) of every distinct drink will either be calculated using information provided by the providers or will be calculated manually using openly accessible information. The caffeine taken from other drinks from coffee, tea or energy drinks will be collected under another title called "Other".
-  - **Exam Dates: ** The dates of both the midterm and final exams of the last semester and the current semester will be used. The dates will be used to classify the periods for the consumption of caffeine. These periods are to be:
+  - **Caffeine Consumption:** This will be calculated under 2 parts which are logs of coffee consumption pre-project and the logs of coffee/tea/energy drink consumption during the project period. To calculate the weekly intake, the average caffeine content (in milligrams) of every distinct drink will either be calculated using information provided by the providers or will be calculated manually using openly accessible information. The caffeine taken from other drinks from coffee, tea or energy drinks will be collected under another title called "Other".
+  - **Exam Dates:** The dates of both the midterm and final exams of the last semester and the current semester will be used. The dates will be used to classify the periods for the consumption of caffeine. These periods are to be:
     - Consumption within 1 week before an exam.
     - Consumption within 3 days before an exam.
     - Consumption within a day before an exam.
