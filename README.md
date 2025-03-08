@@ -19,9 +19,9 @@
     - Consumption within 3 days before an exam.
     - Consumption within a day before an exam.
     - Consumption in the day of an exam.
-- Collection of Data
+- **Collection of Data**
   - The data for the pre-project coffee consumption will be requested from the companies that the coffee were bought from, in case I am unable to get the data directly from them, I will manually log the data into a .csv file by just reading the already accessed purchase history in the apps. For the consumption data that are to be collected during the project period, the consumed product will first be noted down and will then be logged into a .csv file at the end of each day. The data for the previous and current midterm and final exam dates will be taken from my personal Google Calendar, which is updated regularly.
-- Preperation of Data
+- **Preperation of Data**
   - The data for the caffeine consumption is to be calculated carefully as described in the dataset description part above to prevent any inconsistencies.
   - An important thing to track is to eliminate outlier data(which may be caused by non-exam events) to achieve consistency.
  
