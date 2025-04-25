@@ -1,0 +1,213 @@
+Date,Within 1 Week Before Exam,Within 3 Days Before Exam,1 Day Before Exam,On Exam Day,Caffeine Consumption,Exam Proximity,Exam Related
+2024-09-25,0,0,0,0,252,Not Related to Exam,Not Related to Exam
+2024-09-26,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-09-27,0,0,0,0,252,Not Related to Exam,Not Related to Exam
+2024-09-28,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-09-29,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-09-30,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2024-10-01,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-02,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-03,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-04,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-05,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-06,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-07,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-08,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-09,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-10,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-11,0,0,0,0,200,Not Related to Exam,Not Related to Exam
+2024-10-12,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2024-10-13,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-14,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-15,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-16,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2024-10-17,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-18,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2024-10-19,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-20,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2024-10-21,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2024-10-22,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-23,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-10-24,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-25,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-10-26,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2024-10-27,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2024-10-28,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-10-29,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-10-30,0,1,0,0,344,Within 3 Days Before Exam,Related to Exam
+2024-10-31,0,1,0,0,281,Within 3 Days Before Exam,Related to Exam
+2024-11-01,0,0,1,0,126,1 Day Before Exam,Related to Exam
+2024-11-02,0,0,0,1,63,On Exam Day,Related to Exam
+2024-11-03,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2024-11-04,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-11-05,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-11-06,1,0,0,0,63,Within 1 Week Before Exam,Related to Exam
+2024-11-07,0,1,0,0,63,Within 3 Days Before Exam,Related to Exam
+2024-11-08,0,1,0,0,155,Within 3 Days Before Exam,Related to Exam
+2024-11-09,0,0,1,0,155,1 Day Before Exam,Related to Exam
+2024-11-10,0,0,0,1,252,On Exam Day,Related to Exam
+2024-11-11,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-11-12,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-11-13,1,0,0,0,252,Within 1 Week Before Exam,Related to Exam
+2024-11-14,0,1,0,0,0,Within 3 Days Before Exam,Related to Exam
+2024-11-15,0,1,0,0,373,Within 3 Days Before Exam,Related to Exam
+2024-11-16,0,0,1,0,155,1 Day Before Exam,Related to Exam
+2024-11-17,0,0,0,1,155,On Exam Day,Related to Exam
+2024-11-18,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2024-11-19,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-11-20,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-11-21,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-11-22,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-11-23,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2024-11-24,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-11-25,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2024-11-26,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-11-27,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-11-28,0,0,0,0,218,Not Related to Exam,Not Related to Exam
+2024-11-29,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-11-30,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-01,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-12-02,1,0,0,0,281,Within 1 Week Before Exam,Related to Exam
+2024-12-03,1,0,0,0,63,Within 1 Week Before Exam,Related to Exam
+2024-12-04,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-12-05,0,1,0,0,63,Within 3 Days Before Exam,Related to Exam
+2024-12-06,0,1,0,0,155,Within 3 Days Before Exam,Related to Exam
+2024-12-07,0,0,1,0,126,1 Day Before Exam,Related to Exam
+2024-12-08,0,0,0,1,126,On Exam Day,Related to Exam
+2024-12-09,0,1,0,0,126,Within 3 Days Before Exam,Related to Exam
+2024-12-10,0,1,0,0,155,Within 3 Days Before Exam,Related to Exam
+2024-12-11,0,0,1,0,155,1 Day Before Exam,Related to Exam
+2024-12-12,0,0,0,1,126,On Exam Day,Related to Exam
+2024-12-13,0,0,1,0,155,1 Day Before Exam,Related to Exam
+2024-12-14,0,0,0,1,155,On Exam Day,Related to Exam
+2024-12-15,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-16,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-17,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-18,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2024-12-19,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2024-12-20,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-21,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-22,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-23,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-24,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2024-12-25,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-26,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2024-12-27,1,0,0,0,63,Within 1 Week Before Exam,Related to Exam
+2024-12-28,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2024-12-29,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2024-12-30,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2024-12-31,0,1,0,0,155,Within 3 Days Before Exam,Related to Exam
+2025-01-01,0,1,0,0,155,Within 3 Days Before Exam,Related to Exam
+2025-01-02,0,0,1,0,155,1 Day Before Exam,Related to Exam
+2025-01-03,0,0,0,1,155,On Exam Day,Related to Exam
+2025-01-04,0,0,1,0,0,1 Day Before Exam,Related to Exam
+2025-01-05,0,0,0,1,63,On Exam Day,Related to Exam
+2025-01-06,0,0,1,0,126,1 Day Before Exam,Related to Exam
+2025-01-07,0,0,0,1,0,On Exam Day,Related to Exam
+2025-01-08,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2025-01-09,0,1,0,0,0,Within 3 Days Before Exam,Related to Exam
+2025-01-10,0,1,0,0,100,Within 3 Days Before Exam,Related to Exam
+2025-01-11,0,0,1,0,486,1 Day Before Exam,Related to Exam
+2025-01-12,0,0,0,1,440,On Exam Day,Related to Exam
+2025-01-13,0,0,0,0,305,Not Related to Exam,Not Related to Exam
+2025-01-14,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-01-15,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-16,0,0,0,0,285,Not Related to Exam,Not Related to Exam
+2025-01-17,0,0,0,0,205,Not Related to Exam,Not Related to Exam
+2025-01-18,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-01-19,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-20,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-21,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-01-22,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-23,0,0,0,0,50,Not Related to Exam,Not Related to Exam
+2025-01-24,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-25,0,0,0,0,50,Not Related to Exam,Not Related to Exam
+2025-01-26,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-27,0,0,0,0,50,Not Related to Exam,Not Related to Exam
+2025-01-28,0,0,0,0,50,Not Related to Exam,Not Related to Exam
+2025-01-29,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-01-30,0,0,0,0,80,Not Related to Exam,Not Related to Exam
+2025-01-31,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-01,0,0,0,0,310,Not Related to Exam,Not Related to Exam
+2025-02-02,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-03,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-04,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-05,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-06,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-07,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-08,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-09,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-10,0,0,0,0,126,Not Related to Exam,Not Related to Exam
+2025-02-11,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-12,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-13,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-14,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-15,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-16,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-17,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-02-18,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-02-19,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-20,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-21,0,0,0,0,315,Not Related to Exam,Not Related to Exam
+2025-02-22,0,0,0,0,555,Not Related to Exam,Not Related to Exam
+2025-02-23,0,0,0,0,143,Not Related to Exam,Not Related to Exam
+2025-02-24,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-02-25,0,0,0,0,318,Not Related to Exam,Not Related to Exam
+2025-02-26,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-02-27,0,0,0,0,601,Not Related to Exam,Not Related to Exam
+2025-02-28,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-03-01,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-03-02,0,0,0,0,390,Not Related to Exam,Not Related to Exam
+2025-03-03,0,0,0,0,473,Not Related to Exam,Not Related to Exam
+2025-03-04,0,0,0,0,255,Not Related to Exam,Not Related to Exam
+2025-03-05,0,0,0,0,63,Not Related to Exam,Not Related to Exam
+2025-03-06,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-03-07,0,0,0,0,235,Not Related to Exam,Not Related to Exam
+2025-03-08,0,0,0,0,570,Not Related to Exam,Not Related to Exam
+2025-03-09,1,0,0,0,415,Within 1 Week Before Exam,Related to Exam
+2025-03-10,1,0,0,0,100,Within 1 Week Before Exam,Related to Exam
+2025-03-11,1,0,0,0,63,Within 1 Week Before Exam,Related to Exam
+2025-03-12,1,0,0,0,268,Within 1 Week Before Exam,Related to Exam
+2025-03-13,0,1,0,0,0,Within 3 Days Before Exam,Related to Exam
+2025-03-14,0,1,0,0,305,Within 3 Days Before Exam,Related to Exam
+2025-03-15,0,0,1,0,405,1 Day Before Exam,Related to Exam
+2025-03-16,0,0,0,1,50,On Exam Day,Related to Exam
+2025-03-17,1,0,0,0,230,Within 1 Week Before Exam,Related to Exam
+2025-03-18,1,0,0,0,218,Within 1 Week Before Exam,Related to Exam
+2025-03-19,0,1,0,0,210,Within 3 Days Before Exam,Related to Exam
+2025-03-20,0,1,0,0,100,Within 3 Days Before Exam,Related to Exam
+2025-03-21,0,0,1,0,326,1 Day Before Exam,Related to Exam
+2025-03-22,0,0,0,1,100,On Exam Day,Related to Exam
+2025-03-23,0,1,0,0,0,Within 3 Days Before Exam,Related to Exam
+2025-03-24,0,0,1,0,390,1 Day Before Exam,Related to Exam
+2025-03-25,0,0,0,1,155,On Exam Day,Related to Exam
+2025-03-26,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-03-27,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-03-28,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-03-29,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-03-30,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-03-31,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-04-01,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-04-02,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-04-03,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-04-04,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-04-05,0,0,0,0,0,Not Related to Exam,Not Related to Exam
+2025-04-06,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2025-04-07,1,0,0,0,163,Within 1 Week Before Exam,Related to Exam
+2025-04-08,1,0,0,0,155,Within 1 Week Before Exam,Related to Exam
+2025-04-09,1,0,0,0,0,Within 1 Week Before Exam,Related to Exam
+2025-04-10,0,1,0,0,100,Within 3 Days Before Exam,Related to Exam
+2025-04-11,0,1,0,0,150,Within 3 Days Before Exam,Related to Exam
+2025-04-12,0,0,1,0,150,1 Day Before Exam,Related to Exam
+2025-04-13,0,0,0,1,113,On Exam Day,Related to Exam
+2025-04-14,0,0,0,0,516,Not Related to Exam,Not Related to Exam
+2025-04-15,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-04-16,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-04-17,0,0,0,0,50,Not Related to Exam,Not Related to Exam
+2025-04-18,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-04-19,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-04-20,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-04-21,0,0,0,0,100,Not Related to Exam,Not Related to Exam
+2025-04-22,0,0,0,0,155,Not Related to Exam,Not Related to Exam
+2025-04-23,0,0,0,0,235,Not Related to Exam,Not Related to Exam
+2025-04-24,0,0,0,0,126,Not Related to Exam,Not Related to Exam
