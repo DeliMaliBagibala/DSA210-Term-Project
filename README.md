@@ -24,3 +24,5 @@
   - The data for caffeine consumption is to be calculated carefully as described in the dataset description part above to prevent any inconsistencies.
   - An important thing to track is to eliminate outlier data (which may be caused by non-exam events) to achieve consistency.
 ---
+## Report
+A presentation of my report is present in the project files as "DSA210 Term Project Presentation.pptx".
